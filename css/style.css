@@ -110,14 +110,15 @@ p{
     text-decoration: none;
 }
 .bottom-container{
+    font-family: 'Montserrat', sans-serif;
     background-color: #66bfbf;
     margin: 0;
-    padding: 20px;
+    padding: 40px;
 }
 .footer-link{
-    margin: 20px;
+    margin: 25px;
     color: #11999e;
-    font-style: normal;
+    text-decoration: none;
 }
 .footer-link:hover{
     color: #c7e3df;
@@ -125,4 +126,6 @@ p{
 .copyright{
     color: #EAF6F6;
     font-size: 12px;
+    margin:20px auto 0;
+
 }
