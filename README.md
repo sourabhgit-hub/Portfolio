@@ -7,4 +7,4 @@ I chose to use HTML and CSS because they are the foundation of web development a
 I hope that you enjoy exploring my website and learning more about my background and abilities. If you have any questions or feedback, please do not hesitate to reach out to me. Thank you for visiting!
 
 
-check link to the portfolio: https://sourabhgit-hub.github.io/portfolio/
+check link to the portfolio: https://sourabhgit-hub.github.io/Portfolio/
